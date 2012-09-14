@@ -18,7 +18,7 @@
           </tr>
           <tr>
             <td><?php echo $entry_username; ?><br />
-              <input type="text" name="username" value="<?php echo $username; ?>" style="margin-top: 4px;" />
+              <input type="text" name="username" value="<?php echo $username; ?>" style="margin-top: 4px;" autofocus="autofocus" />
               <br />
               <br />
               <?php echo $entry_password; ?><br />
